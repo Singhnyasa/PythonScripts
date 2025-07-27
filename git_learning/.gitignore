@@ -1,0 +1,7 @@
+sample.txt
+*.md
+target/
+*.war
+*.jar
+
+
